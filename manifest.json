@@ -1,0 +1,10 @@
+{
+  "name": "FG World Cup AI V2",
+  "short_name": "FG WC V2",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "description": "Match lineups and auto fix",
+  "icons": []
+}
