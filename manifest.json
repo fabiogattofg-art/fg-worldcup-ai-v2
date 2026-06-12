@@ -1,9 +1,0 @@
-{
-  "name": "FG World Cup AI V5",
-  "short_name": "FG WC V5",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#090b10",
-  "theme_color": "#090b10",
-  "icons": []
-}
